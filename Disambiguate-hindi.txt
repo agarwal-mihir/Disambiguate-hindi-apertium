@@ -1,0 +1,1779 @@
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<आंतरिक>"
+	"आंतरिक" adj mfn sp
+;	"आंतरिक" adj m sg nom
+;	"आंतरिक" adj m sg obl
+;	"आंतरिक" adj m pl nom
+;	"आंतरिक" adj m pl obl
+;	"आंतरिक" adj f sg nom
+;	"आंतरिक" adj f sg obl
+;	"आंतरिक" adj f pl nom
+;	"आंतरिक" adj f pl obl
+"<चक्र>"
+	"चक्र" n m sg nom
+;	"चक्र" n m sg obl
+;	"चक्र" n m pl nom
+"<के अनुसार>"
+	"के अनुसार" post
+"<,>"
+	"," cm
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<ने>"
+	"ने" post
+"<अपनी>"
+	"अप" prn pers p1 f pos sg
+"<इस>"
+	"यह" prn dem p3 mf sg prox obl
+"<विधि>"
+	"विधि" n f sg nom
+;	"विधि" n f sg obl
+"<को>"
+	"को" post
+"<लीबनीज>"
+	"लीबनीज" np cog sg
+"<से>"
+	"से" post
+;	"सा" adj m sg obl
+;	"सा" adj m pl nom
+;	"सा" adj m pl obl
+"<कई>"
+	"कई" adj mfn sp
+;	"कई" n m sg nom
+;	"कई" n m sg obl
+;	"कई" n m pl nom
+;	"कई" adj m sg nom
+;	"कई" adj m sg obl
+;	"कई" adj m pl nom
+;	"कई" adj m pl obl
+;	"कई" adj f sg nom
+;	"कई" adj f sg obl
+;	"कई" adj f pl nom
+;	"कई" adj f pl obl
+"<साल>"
+	"साल" n m sg nom
+;	"साल" n m sg obl
+;	"साल" n m pl nom
+"<पहले>"
+	"पहले" adv
+;	"पहला" num ord mf
+"<ही>"
+	"ही" post
+;	"ही" adj mfn sp
+;	"ही" adj m sg nom
+;	"ही" adj m sg obl
+;	"ही" adj m pl nom
+;	"ही" adj m pl obl
+;	"ही" adj f sg nom
+;	"ही" adj f sg obl
+;	"ही" adj f pl nom
+;	"ही" adj f pl obl
+"<विकसित कर>"
+;	"विकसित कर" vblex tv stem
+	"विकसित कर" vblex tv imp p2 frm pl
+"<दिया>"
+	"दे" vblex tv perf m sg
+"<था>"
+	"हो" vbser impf p3 m sg
+"<,>"
+	"," cm
+"<लेकिन>"
+	"लेकिन" cnjcoo
+"<उन्होंने>"
+	"यह" prn dem p3 mf pl dist erg
+"<लगभग>"
+	"लगभग" adv
+"<1693>"
+	"1693" num
+"<तक>"
+	"तक" cnjadv
+"<अपने>"
+;	"अपना" n m sg obl
+;	"अपना" n m pl nom
+	"अप" prn pers p1 mf pos sg
+"<किसी>"
+	"किसी" adj mfn sp
+;	"किसी" adj m sg nom
+;	"किसी" adj m sg obl
+;	"किसी" adj m pl nom
+;	"किसी" adj m pl obl
+;	"किसी" adj f sg nom
+;	"किसी" adj f sg obl
+;	"किसी" adj f pl nom
+;	"किसी" adj f pl obl
+"<भी>"
+	"भी" adv
+"<कार्य>"
+	"कार्य" n m sg nom
+;	"कार्य" n m sg obl
+;	"कार्य" n m pl nom
+"<को>"
+	"को" post
+"<प्रकाशित>"
+	"प्रकाशित" adj mfn sp
+;	"प्रकाशित" adj m sg nom
+;	"प्रकाशित" adj m sg obl
+;	"प्रकाशित" adj m pl nom
+;	"प्रकाशित" adj m pl obl
+;	"प्रकाशित" adj f sg nom
+;	"प्रकाशित" adj f sg obl
+;	"प्रकाशित" adj f pl nom
+;	"प्रकाशित" adj f pl obl
+"<नहीं>"
+	"नहीं" adv
+"<किया>"
+	"कर" vblex tv perf m sg
+"<और>"
+	"और" cnjcoo
+"<1704>"
+	"1704" num
+"<तक>"
+	"तक" cnjadv
+"<अपने>"
+;	"अपना" n m sg obl
+;	"अपना" n m pl nom
+	"अप" prn pers p1 mf pos sg
+"<कार्य>"
+	"कार्य" n m sg nom
+;	"कार्य" n m sg obl
+;	"कार्य" n m pl nom
+"<का>"
+	"का" gen m sg
+"<पूरा>"
+	"पूरा" adj mfn sp
+;	"पूरा" adj m sg nom
+;	"पूरा" adj mfn sp obl
+"<लेखा>"
+	"लेखा" n m sg nom
+"<जोखा>"
+	"जोखा" n m sg nom
+"<नहीं>"
+	"नहीं" adv
+"<दिया>"
+	"दे" vblex tv perf m sg
+"<.>"
+	"." sent
+"<इस>"
+	"यह" prn dem p3 mf sg prox obl
+"<बीच>"
+	"बीच" adv
+;	"बीच" n m sg nom
+;	"बीच" n m sg obl
+;	"बीच" n m pl nom
+;	"बीच" n m pl obl
+"<,>"
+	"," cm
+"<लीबनीज>"
+	"लीबनीज"  np cog sg
+"<ने>"
+	"ने" post
+"<1684>"
+	"1684" num
+"<में>"
+	"में" post
+"<अपनी>"
+	"अप" prn pers p1 f pos sg
+"<विधियों>"
+	"विधि" n f pl obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<पूरा>"
+	"पूरा" adj mfn sp
+;	"पूरा" adj m sg nom
+;	"पूरा" adj mfn sp obl
+"<लेखा>"
+	"लेखा" n m sg nom
+"<जोखा>"
+	"जोखा" n m sg nom
+"<प्रकाशित करना>"
+	"प्रकाशित कर" vblex tv inf nom m
+"<शुरू कर>"
+;	"शुरू कर" vblex tv stem
+	"शुरू कर" vblex tv imp p2 frm pl
+"<दिया>"
+	"दे" vblex tv perf m sg
+"<.>"
+	"." sent
+"<इसके>"
+	"यह" prn dem p3 mf sg prox gen
+"<अलावा>"
+	"अलावा" post
+"<,>"
+	"," cm
+"<लीबनीज>"
+	"लीबनीज" np sp nom
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<संकेतनों>"
+	"संकेतनों" n m pl nom
+"<तथा>"
+	"तथा" cnjcoo
+ "
+"<अवकलन>"
+	"अवकलन" n m pl nom
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<विधियों>"
+	"विधि" n f pl obl
+" 
+"<को>"
+	"को" post
+"<महाद्वीप>"
+	"महाद्वीप" n m sg nom
+;	"महाद्वीप" n m sg obl
+;	"महाद्वीप" n m pl nom
+;	"महाद्वीप" n m pl obl
+"<पर>"
+	"पर" post
+;	"पर" cnjcoo
+;	"पर" n m sg nom
+;	"पर" n m sg obl
+;	"पर" n m pl nom
+"<सार्वत्रिक रूप से>"
+	"सार्वत्रिक रूप से" adv
+;	"सार्वत्रिक" adj mfn sp
+;	"सार्वत्रिक" adj m sg nom
+;	"सार्वत्रिक" adj m sg obl
+;	"सार्वत्रिक" adj m pl nom
+;	"सार्वत्रिक" adj m pl obl
+;	"सार्वत्रिक" adj f sg nom
+;	"सार्वत्रिक" adj f sg obl
+;	"सार्वत्रिक" adj f pl nom
+;	"सार्वत्रिक" adj f pl obl
+"<अपनाया>"
+	"अपना" vblex tv perf m sg
+"<गया>"
+	"जा" vblex iv perf m sg
+"<और>"
+	"और" cnjcoo
+"<१८२०>"
+	"१८२०" num
+"<के बाद>"
+	"के बाद" post
+"<,>"
+	"," cm
+"<ब्रिटिश>"
+	"ब्रिटिश" adj mfn sp
+;	"ब्रिटिश" adj m sg nom
+;	"ब्रिटिश" adj m sg obl
+;	"ब्रिटिश" adj m pl nom
+;	"ब्रिटिश" adj m pl obl
+;	"ब्रिटिश" adj f sg nom
+;	"ब्रिटिश" adj f sg obl
+;	"ब्रिटिश" adj f pl nom
+;	"ब्रिटिश" adj f pl obl
+"<साम्राज्य>"
+	"साम्राज्य" n m sg nom
+;	"साम्राज्य" n m sg obl
+;	"साम्राज्य" n m pl nom
+;	"साम्राज्य" n m pl obl
+"<में>"
+	"में" post
+"<भी>"
+	"भी" adv
+"<इसे>"
+	"यह" prn dem p3 mf sg prox dat
+"<अपनाया>"
+	"अपना" vblex tv perf m sg
+"<गया>"
+	"जा" vblex iv perf m sg
+"<।>"
+	"।" sent
+"<जबकि>"
+	"जबकि" cnjadv
+"<लीबनीज>"
+	"लीबनीज" np sp nom
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<पुस्तिकाएं>"
+	"पुस्तिकाएं" n f pl
+"<प्रारंभिक>"
+	"प्रारंभिक" adj mfn sp
+;	"प्रारंभिक" adj m sg nom
+;	"प्रारंभिक" adj m sg obl
+;	"प्रारंभिक" adj m pl nom
+;	"प्रारंभिक" adj m pl obl
+;	"प्रारंभिक" adj f sg nom
+;	"प्रारंभिक" adj f sg obl
+;	"प्रारंभिक" adj f pl nom
+;	"प्रारंभिक" adj f pl obl
+"<अवस्थाओं>"
+	"अवस्था" n f pl obl
+"<से>"
+	"से" post
+;	"सा" adj m sg obl
+;	"सा" adj m pl nom
+;	"सा" adj m pl obl
+"<परिपक्वता>"
+	"परिपक्वता" n f sg nom
+;	"परिपक्वता" n f sg obl
+;	"परिपक्वता" n f pl nom
+;	"परिपक्वता" n f pl obl
+"<तक>"
+	"तक" cnjadv
+"<विचारों>"
+	"विचार" n m pl obl
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<आधुनिकीकरण>"
+	"आधुनिकीकरण" n m sg nom
+;	"आधुनिकीकरण" n m sg obl
+;	"आधुनिकीकरण" n m pl nom
+"<को>"
+	"को" post
+"<दर्शाती>"
+	"दर्शा" vblex tv impf f sg
+"<हैं>"
+	"हो" vbser pres p3 mf pl
+;	"हो" vbser pres p1 mf pl
+"<,>"
+	"," cm
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<ज्ञात>"
+	"ज्ञात" adj mfn sp
+;	"ज्ञात" adj m sg nom
+;	"ज्ञात" adj m sg obl
+;	"ज्ञात" adj m pl nom
+;	"ज्ञात" adj m pl obl
+;	"ज्ञात" adj f sg nom
+;	"ज्ञात" adj f sg obl
+;	"ज्ञात" adj f pl nom
+;	"ज्ञात" adj f pl obl
+"<नोट्स>"
+	"नोट्स" n m pl nom
+"<में>"
+	"में" post
+"<केवल>"
+	"केवल" adv
+"<अंतिम>"
+	"अंतिम" adj mfn sg
+;	"अंतिम" n m sg nom
+;	"अंतिम" n m sg obl
+;	"अंतिम" n m pl nom
+;	"अंतिम" n m pl obl
+"<परिणाम>"
+	"परिणाम" n m sg nom
+;	"परिणाम" n m sg obl
+;	"परिणाम" n m pl nom
+"<ही>"
+	"ही" adv
+;	"ही" adj mfn sp
+;	"ही" adj m sg nom
+;	"ही" adj m sg obl
+;	"ही" adj m pl nom
+;	"ही" adj m pl obl
+;	"ही" adj f sg nom
+;	"ही" adj f sg obl
+;	"ही" adj f pl nom
+;	"ही" adj f pl obl
+"<है>"
+;	"हो" vbser pres m pl nom
+;	"हो" vbser pres p2 mf sg
+	"हो" vbser pres p3 mf sg
+"<।>"
+	"।" sent
+
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<ने>"
+	"ने" post
+"<कहा>"
+	"कह" vblex tv perf m sg
+"<कि>"
+	"कि" cnjsub
+"<वे>"
+;	"वे" n m sg nom
+;	"वे" n m sg obl
+;	"वे" n m pl nom
+;	"वे" n m pl obl
+	"यह" prn dem p3 mf pl dist nom
+"<अपने>"
+;	"अपना" n m sg obl
+;	"अपना" n m pl nom
+	"अप" prn pers p1 mf pos sg
+"<कलन>"
+	"कलन" n m sg nom
+;	"कलन" n m sg obl
+;	"कलन" n m pl nom
+;	"कलन" n m pl obl
+"<को>"
+	"को" post
+"<प्रकाशित>"
+	"प्रकाशित" adj mfn sp
+;	"प्रकाशित" adj m sg nom
+;	"प्रकाशित" adj m sg obl
+;	"प्रकाशित" adj m pl nom
+;	"प्रकाशित" adj m pl obl
+;	"प्रकाशित" adj f sg nom
+;	"प्रकाशित" adj f sg obl
+;	"प्रकाशित" adj f pl nom
+;	"प्रकाशित" adj f pl obl
+"<नहीं>"
+	"नहीं" adv
+"<करना>"
+;	"करना" vblex tv stem
+;	"कर" vblex tv inf nom m
+;	"करना" n m sg nom
+;	"करना" n m sg obl
+;	"करना" n m pl nom
+;	"करना" n m pl obl
+	"करना" vblex tv imp p2 pl
+"<चाहते>"
+	"चाह" vblex tv impf m pl
+"<थे>"
+	"हो" vbser impf p3 m pl
+"<क्योंकि>"
+	"क्योंकि" cnjadv
+"<उन्हें>"
+	"यह" prn dem p3 mf pl dist dat
+"<डर>"
+	"डर" vblex tv stem
+;	"डर" vblex iv stem
+;	"डर" n m sg nom
+;	"डर" n m sg obl
+;	"डर" n m pl nom
+;	"डर" n m pl obl
+"<था>"
+	"हो" vbser impf p3 m sg
+"<वे>"
+;	"वे" n m sg nom
+;	"वे" n m sg obl
+;	"वे" n m pl nom
+;	"वे" n m pl obl
+	"यह" prn dem p3 mf pl dist nom
+"<उपहास>"
+	"उपहास" n m sg nom
+;	"उपहास" n m sg obl
+;	"उपहास" n m pl nom
+;	"उपहास" n m pl obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<पात्र>"
+	"पात्र" n m sg nom
+;	"पात्र" n m sg obl
+;	"पात्र" n m pl nom
+"<बन जायेंगे>"
+;	"बन जा" vblex tv fut p1 m pl
+	"बन जा" vblex tv fut p3 m pl
+;	"बन जा" vblex iv fut p1 m pl
+;	"बन जा" vblex iv fut p3 m pl
+"<.>"
+	"." sent
+
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<स्विस>"
+	"स्विस" adj mfn sp
+;	"स्विस" n m sg nom
+;	"स्विस" n m sg obl
+;	"स्विस" n m pl nom
+"<गणितज्ञ>"
+	"गणितज्ञ" n m sg nom
+;	"गणितज्ञ" n m sg obl
+;	"गणितज्ञ" n m pl nom
+"<निकोलस>"
+	"निकोलस" np ant m sg nom
+"<फतियो>"
+	"फतियो" np ant m sg nom
+"<डे>"
+	"डे" np cog sg
+;	"डे" n m sg nom
+;	"डे" n m sg obl
+;	"डे" n m pl nom
+;	"डे" n m pl obl
+"<दुइलिअर>"
+	"दुइलिअर" np cog sg
+"<के साथ>"
+	"के साथ" post
+"<बहुत>"
+	"बहुत" adv
+;	"बहुत" adj mfn sp
+;	"बहुत" adj m sg nom
+;	"बहुत" adj m sg obl
+;	"बहुत" adj m pl nom
+;	"बहुत" adj m pl obl
+;	"बहुत" adj f sg nom
+;	"बहुत" adj f sg obl
+;	"बहुत" adj f pl nom
+;	"बहुत" adj f pl obl
+"<करीबी>"
+	"करीबी" adj mfn sp
+;	"करीबी" adj m sg nom
+;	"करीबी" adj m sg obl
+;	"करीबी" adj m pl nom
+;	"करीबी" adj m pl obl
+;	"करीबी" adj f sg nom
+;	"करीबी" adj f sg obl
+;	"करीबी" adj f pl nom
+;	"करीबी" adj f pl obl
+"<रिश्ता>"
+	"रिश्ता" n m sg nom
+"<था>"
+	"हो" vbser impf p3 m sg
+"<,>"
+	"," cm
+"<जो>"
+	"जो" prn rel sg nom
+;	"जो" prn rel pl nom
+"<प्रारम्भ>"
+	"प्रारम्भ" n m sg nom
+;	"प्रारम्भ" n m sg obl
+;	"प्रारम्भ" n m pl nom
+"<से>"
+	"से" post
+;	"सा" adj m sg obl
+;	"सा" adj m pl nom
+;	"सा" adj m pl obl
+"<ही>"
+	"ही" post
+;	"ही" adj mfn sp
+;	"ही" adj m sg nom
+;	"ही" adj m sg obl
+;	"ही" adj m pl nom
+;	"ही" adj m pl obl
+;	"ही" adj f sg nom
+;	"ही" adj f sg obl
+;	"ही" adj f pl nom
+;	"ही" adj f pl obl
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<के>"
+	"का" gen m pl
+"<गुरुत्वाकर्षण>"
+	"गुरुत्वाकर्षण" n m sg nom
+	"गुरुत्वाकर्षण" n m sg obl
+	"गुरुत्वाकर्षण" n m pl nom
+	"गुरुत्वाकर्षण" n m pl obl
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<सिद्धांत>"
+	"सिद्धांत" n m sg nom
+;	"सिद्धांत" n m sg obl
+;	"सिद्धांत" n m pl nom
+"<से>"
+	"से" post
+;	"सा" adj m sg obl
+;	"सा" adj m pl nom
+;	"सा" adj m pl obl
+"<बहुत>"
+	"बहुत" adv
+;	"बहुत" adj mfn sp
+;	"बहुत" adj m sg nom
+;	"बहुत" adj m sg obl
+;	"बहुत" adj m pl nom
+;	"बहुत" adj m pl obl
+;	"बहुत" adj f sg nom
+;	"बहुत" adj f sg obl
+;	"बहुत" adj f pl nom
+;	"बहुत" adj f pl obl
+"<प्रभावित>"
+	"प्रभावित" adj mfn sp
+;	"प्रभावित" adj m sg nom
+;	"प्रभावित" adj m sg obl
+;	"प्रभावित" adj m pl nom
+;	"प्रभावित" adj m pl obl
+;	"प्रभावित" adj f sg nom
+;	"प्रभावित" adj f sg obl
+;	"प्रभावित" adj f pl nom
+;	"प्रभावित" adj f pl obl
+"<थे>"
+	"हो" vbser impf p3 m pl
+"<।>"
+	"।" sent
+"<1691>"
+	"1691" num
+"<में>"
+	"में" post
+"<दुइलिअर>"
+	"दुइलिअर" np cog sg
+"<ने>"
+	"ने" post
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<फिलोसोफी>"
+	"फिलोसोफी" np
+"<नेचुरेलिस>"
+	"नेचुरेलिस" np
+"<प्रिन्सिपिया>"
+	"प्रिन्सिपिया" np
+"<मेथेमेटिका>"
+	"मेथेमेटिका" np
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<एक>"
+;	"एक" num
+	"एक" det indef obl mfn sg
+"<नए>"
+	"नए" adj mfn sp
+;	"नए" adj m sg nom
+;	"नए" adj m sg obl
+;	"नए" adj m pl nom
+;	"नए" adj m pl obl
+;	"नए" adj f sg nom
+;	"नए" adj f sg obl
+;	"नए" adj f pl nom
+;	"नए" adj f pl obl
+"<संस्करण>"
+	"संस्करण" n m sg nom
+;	"संस्करण" n m sg obl
+;	"संस्करण" n m pl nom
+"<को>"
+	"को" post
+"<तैयार करने>"
+	"तैयार कर" vblex tv inf obl
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<योजना बनायी>"
+	"योजना बना" vblex tv perf f sg
+"<,>"
+	"," cm
+"<लेकिन>"
+	"लेकिन" cnjcoo
+"<इसे>"
+	"यह" prn dem p3 mf sg prox dat
+"<कभी>"
+	"कभी" adv
+"<पूरा>"
+	"पूरा" adj mfn sp
+;	"पूरा" adj m sg nom
+;	"पूरा" adj mfn sp obl
+"<नहीं>"
+	"नहीं" adv
+"<कर>"
+;	"कर" vblex tv stem
+;	"कर" n m sg nom
+;	"कर" n m sg obl
+;	"कर" n m pl nom
+	"कर" vblex tv imp p2 frm pl
+"<पाए>"
+;	"पा" vblex tv prs p2 sg
+	"पा" vblex tv prs p3 sg
+;	"पा" vblex tv perf m pl
+"<.>"
+	"." sent
+"<बहरहाल>"
+	"बहरहाल" cnjcoo
+;	"बहरहाल" adv
+"<,>"
+	"," cm
+"<इन>"
+	"यह" prn dem p3 mf pl prox obl
+"<दोनों>"
+;	"दोनों" adv
+	"दोनों" adj mfn sp
+;	"दोनों" det ind pl
+;	"दोना" n m pl obl
+;	"दोनों" adj m sg nom
+;	"दोनों" adj m sg obl
+;	"दोनों" adj m pl nom
+;	"दोनों" adj m pl obl
+;	"दोनों" adj f sg nom
+;	"दोनों" adj f sg obl
+;	"दोनों" adj f pl nom
+;	"दोनों" adj f pl obl
+"<पुरुषों>"
+	"पुरुष" n m pl obl
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<बीच>"
+	"बीच" adv
+;	"बीच" n m sg nom
+;	"बीच" n m sg obl
+;	"बीच" n m pl nom
+;	"बीच" n m pl obl
+"<सम्बन्ध>"
+	"सम्बन्ध" n m sg nom
+;	"सम्बन्ध" n m sg obl
+;	"सम्बन्ध" n m pl nom
+"<1693>"
+	"1693" num
+"<में>"
+	"में" post
+"<बदल>"
+	"बदल" vblex tv stem
+;	"बदल" vblex iv stem
+"<गया>"
+	"जा" vblex iv perf m sg
+"<।>"
+	"।" sent
+"<इस>"
+	"यह" prn dem p3 mf sg prox obl
+"<समय>"
+	"समय" n m sg nom
+;	"समय" n m sg obl
+;	"समय" n m pl nom
+;	"समय" n m pl obl
+"<,>"
+	"," cm
+"<दुइलिअर>"
+	"दुइलिअर" np cog sg
+"<ने>"
+	"ने" post
+"<भी>"
+	"भी" adv
+"<लीबनीज>"
+	"लीबनीज" np cog sg
+"<के साथ>"
+	"के साथ" post
+"<कई>"
+	"कई" adj mfn sp
+;	"कई" n m sg nom
+;	"कई" n m sg obl
+;	"कई" n m pl nom
+;	"कई" adj m sg nom
+;	"कई" adj m sg obl
+;	"कई" adj m pl nom
+;	"कई" adj m pl obl
+;	"कई" adj f sg nom
+;	"कई" adj f sg obl
+;	"कई" adj f pl nom
+;	"कई" adj f pl obl
+"<पत्रों>"
+	"पत्र" n m pl obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<आदान प्रदान किया>"
+	"प्रदान कर" vblex tv perf m sg
+"<था>"
+	"हो" vbser impf p3 m sg
+"<।>"
+	"।" sent
+"<[>"
+	"[" lpar
+"<13>"
+	"13" num
+"<]>"
+	"]" rpar
+
+"<1699>"
+	"1699" num
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<शुरुआत>"
+	"शुरुआत" n f sg nom
+;	"शुरुआत" n f sg obl
+;	"शुरुआत" n f pl nom
+;	"शुरुआत" n f pl obl
+"<में>"
+	"में" post
+"<,>"
+	"," cm
+"<रोयल>"
+	"रोयल" np
+"<सोसाइटी>"
+	"सोसाइटी" np org
+;	"सोसाइटी" n f sg nom
+;	"सोसाइटी" n f sg obl
+;	"सोसाइटी" n f pl nom
+;	"सोसाइटी" n f pl obl
+"<(>"
+	"(" lpar
+"<जिसके>"
+	"जो" prn rel mf sg gen
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<भी>"
+	"भी" adv
+"<एक>"
+;	"एक" num
+	"एक" det indef obl mfn sg
+"<सदस्य>"
+;	"सदस्य" n m sg nom
+	"सदस्य" n m sg obl
+;	"सदस्य" n m pl nom
+"<थे>"
+	"हो" vbser impf p3 m pl
+"<)>"
+	")" rpar
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<अन्य>"
+	"अन्य" adv
+"<सदस्यों>"
+	"सदस्य" n m pl obl
+;	"सदस्या" n m pl obl
+"<ने>"
+	"ने" post
+"<लीबनीज>"
+	"लीबनीज" np cog sg
+"<पर>"
+	"पर" post
+;	"पर" cnjcoo
+;	"पर" n m sg nom
+;	"पर" n m sg obl
+;	"पर" n m pl nom
+"<साहित्यिक>"
+	"साहित्यिक" adj mfn sp
+;	"साहित्यिक" adj m sg nom
+;	"साहित्यिक" adj m sg obl
+;	"साहित्यिक" adj m pl nom
+;	"साहित्यिक" adj m pl obl
+;	"साहित्यिक" adj f sg nom
+;	"साहित्यिक" adj f sg obl
+;	"साहित्यिक" adj f pl nom
+;	"साहित्यिक" adj f pl obl
+"<चोरी>"
+	"चोरी" n f sg nom
+;	"चोरी" n f sg obl
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<आरोप लगाये>"
+;	"आरोप लगा" vblex tv prs p2 sg
+	"आरोप लगा" vblex tv prs p3 sg
+;	"आरोप लगा" vblex tv perf m pl
+"<और>"
+	"और" cnjcoo
+"<यह>"
+	"यह" prn dem p3 mf sg prox nom
+"<विवाद>"
+	"विवाद" n m sg nom
+;	"विवाद" n m sg obl
+;	"विवाद" n m pl nom
+"<1711>"
+	"1711" num
+"<में>"
+	"में" post
+"<पूर्ण रूप>"
+	"पूर्ण रूप" adj mfn sp
+;	"पूर्ण रूप" adj m sg nom
+;	"पूर्ण रूप" adj m sg obl
+;	"पूर्ण रूप" adj m pl nom
+;	"पूर्ण रूप" adj m pl obl
+;	"पूर्ण रूप" adj f sg nom
+;	"पूर्ण रूप" adj f sg obl
+;	"पूर्ण रूप" adj f pl nom
+;	"पूर्ण रूप" adj f pl obl
+"<से>"
+	"से" post
+;	"सा" adj m sg obl
+;	"सा" adj m pl nom
+;	"सा" adj m pl obl
+"<सामने>"
+;	"सामने" post
+	"सामने" adv
+;	"सामना" n m sg obl
+;	"सामना" n m pl nom
+;	"सामना" n m pl obl
+"<आया>"
+	"आ" vblex iv perf m sg
+"<।>"
+	"।" sent
+
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<रॉयल>"
+	"रॉयल" np org
+;	"रॉयल" n m sg nom
+;	"रॉयल" n m sg obl
+;	"रॉयल" n m pl nom
+;	"रॉयल" n m pl obl
+"<सोसाइटी>"
+	"सोसाइटी" np org
+;	"सोसाइटी" n f sg nom
+;	"सोसाइटी" n f sg obl
+;	"सोसाइटी" n f pl nom
+;	"सोसाइटी" n f pl obl
+"<ने>"
+	"ने" post
+"<एक>"
+;	"एक" num
+	"एक" det indef obl mfn sg
+"<अध्ययन>"
+	"अध्ययन" n m sg nom
+;	"अध्ययन" n m sg obl
+;	"अध्ययन" n m pl nom
+"<द्वारा>"
+	"द्वारा" post
+"<घोषणा की>"
+	"घोषणा कर" vblex tv perf f sg
+;	"घोषणा कर" vblex tv perf f pl
+"<कि>"
+	"कि" cnjsub
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<ही>"
+	"ही" adj mfn sp
+;	"ही" adj m sg nom
+;	"ही" adj m sg obl
+;	"ही" adj m pl nom
+;	"ही" adj m pl obl
+;	"ही" adj f sg nom
+;	"ही" adj f sg obl
+;	"ही" adj f pl nom
+;	"ही" adj f pl obl
+"<सच्चे>"
+	"सच्चा" adj m sg obl
+;	"सच्चा" adj m pl nom
+;	"सच्चा" adj m pl obl
+"<आविष्कारक>"
+	"आविष्कारक" n m sg nom
+;	"आविष्कारक" n m sg obl
+;	"आविष्कारक" n m pl nom
+"<थे>"
+	"हो" vbser impf p3 m pl
+"<और>"
+	"और" cnjcoo
+"<लीबनीज>"
+	"लीबनीज" np cog sg
+"<ने>"
+	"ने" post
+"<धोखाधड़ी>"
+	"धोखाधड़ी" n sg
+"<की>"
+;	"का" gen f sg
+;	"का" gen f pl
+	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<थी>"
+	"हो" vbser impf p3 f sg
+"<।>"
+	"।" sent
+"<यह>"
+	"यह" prn dem p3 mf sg prox nom
+"<अध्ययन>"
+	"अध्ययन" n m sg nom
+;	"अध्ययन" n m sg obl
+;	"अध्ययन" n m pl nom
+"<संदेह>"
+	"संदेह" n m sg nom
+;	"संदेह" n m sg obl
+;	"संदेह" n m pl nom
+;	"संदेह" n m pl obl
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<घेरे>"
+	"घेरा" n m sg obl
+;	"घेरा" n m pl nom
+;	"घेर" vblex tv prs p2 sg
+;	"घेर" vblex tv prs p3 sg
+;	"घेर" vblex tv perf m pl
+"<में>"
+	"में" post
+"<आ>"
+	"आ" vblex iv imp p2 sg
+"<गया>"
+	"जा" vblex iv perf m sg
+"<,>"
+	"," cm
+"<जब>"
+	"जब" adv
+"<बाद>"
+	"बाद" adv
+"<पाया>"
+	"पा" vblex tv perf m sg
+"<गया>"
+	"जा" vblex iv perf m sg
+"<कि>"
+	"कि" cnjsub
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<ने>"
+	"ने" post
+"<खुद>"
+	"खुद" prn pers p3 mf pl nom
+;	"खुद" prn pers p3 mf pl obl
+"<लीबनीज>"
+	"लीबनीज" np cog sg
+"<पर>"
+	"पर" post
+;	"पर" cnjcoo
+;	"पर" n m sg nom
+;	"पर" n m sg obl
+;	"पर" n m pl nom
+"<अध्ययन>"
+	"अध्ययन" n m sg nom
+;	"अध्ययन" n m sg obl
+;	"अध्ययन" n m pl nom
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<निष्कर्ष>"
+	"निष्कर्ष" n m sg nom
+;	"निष्कर्ष" n m sg obl
+;	"निष्कर्ष" n m pl nom
+;	"निष्कर्ष" n m pl obl
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<टिप्पणी लिखी>"
+	"टिप्पणी लिख" vblex tv perf f sg
+;	"टिप्पणी लिख" vblex tv perf f pl
+"<।>"
+	"।" sent
+
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<को>"
+	"को" post
+"<आम तौर>"
+	"आम तौर" adv
+"<पर>"
+	"पर" post
+;	"पर" cnjcoo
+;	"पर" n m sg nom
+;	"पर" n m sg obl
+;	"पर" n m pl nom
+"<सामान्यीकृत>"
+	"सामान्यीकृत" vblex past
+"<द्विपद>"
+	"द्विपद" np al
+;	"द्विपद" adj mfn sp
+;	"द्विपद" adj m sg nom
+;	"द्विपद" adj m sg obl
+;	"द्विपद" adj m pl nom
+;	"द्विपद" adj m pl obl
+;	"द्विपद" adj f sg nom
+;	"द्विपद" adj f sg obl
+;	"द्विपद" adj f pl nom
+;	"द्विपद" adj f pl obl
+"<प्रमेय>"
+	"प्रमेय" n m sg nom
+;	"प्रमेय" n m sg obl
+;	"प्रमेय" n m pl nom
+;	"प्रमेय" n m pl obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<श्रेय दिया>"
+	"श्रेय दे" vblex tv perf m sg
+"<जाता>"
+	"जा" vblex iv impf m sg
+"<है>"
+;	"हो" vbser pres m pl nom
+;	"हो" vbser pres p2 mf sg
+	"हो" vbser pres p3 mf sg
+"<,>"
+	"," cm
+"<जो>"
+	"जो" cnjsub
+;	"जो" prn rel sg nom
+;	"जो" prn rel pl nom
+"<किसी>"
+	"किसी" adj mfn sp
+;	"किसी" adj m sg nom
+;	"किसी" adj m sg obl
+;	"किसी" adj m pl nom
+;	"किसी" adj m pl obl
+;	"किसी" adj f sg nom
+;	"किसी" adj f sg obl
+;	"किसी" adj f pl nom
+;	"किसी" adj f pl obl
+"<भी>"
+	"भी" adv
+"<घात>"
+	"घात" n f sg nom
+;	"घात" n f sg obl
+"<के लिए>"
+	"के लिए" post
+"<मान्य>"
+	"मान्य" adj mfn sp
+;	"मान्य" adj m sg nom
+;	"मान्य" adj m sg obl
+;	"मान्य" adj m pl nom
+;	"मान्य" adj m pl obl
+;	"मान्य" adj f sg nom
+;	"मान्य" adj f sg obl
+;	"मान्य" adj f pl nom
+;	"मान्य" adj f pl obl
+"<है>"
+;	"हो" vbser pres m pl nom
+;	"हो" vbser pres p2 mf sg
+	"हो" vbser pres p3 mf sg
+"<।>"
+	"।" sent
+"<उन्होंने>"
+	"यह" prn dem p3 mf pl dist erg
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<सर्वसमिकाओं>"
+	"सर्वसमिकाओं" n pl
+"<,>"
+	"," cm
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<विधि>"
+;	"विधि" n f sg nom
+	"विधि" n f sg obl
+"<,>"
+	"," cm
+"<वर्गीकृत>"
+	"वर्गीकृत" adj
+"<घन>"
+	"घन" n m sg nom
+;	"घन" n m sg obl
+;	"घन" n m pl nom
+"<समतल>"
+	"समतल" adj mfn sp
+;	"समतल" adj m sg nom
+;	"समतल" adj m sg obl
+;	"समतल" adj m pl nom
+;	"समतल" adj m pl obl
+;	"समतल" adj f sg nom
+;	"समतल" adj f sg obl
+;	"समतल" adj f pl nom
+;	"समतल" adj f pl obl
+"<वक्र>"
+	"वक्र" n m sg nom
+;	"वक्र" n m sg obl
+;	"वक्र" n m pl nom
+;	"वक्र" n m pl obl
+"<(>"
+	"(" lpar
+"<दो>"
+	"दो" num
+;	"दे" vblex tv prs p2 sg
+;	"दे" vblex tv prs p2 pl
+;	"दे" vblex tv imp p2 sg
+;	"दे" vblex tv imp p2 pl
+"<चरों>"
+	"चरों" n pl
+"<में>"
+	"में" post
+"<तीन>"
+	"तीन" num
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<बहुआयामी>"
+	"बहुआयामी" adj
+"<पद>"
+	"पद" n m sg nom
+;	"पद" n m sg obl
+;	"पद" n m pl nom
+"<)>"
+	")" rpar
+"<की>"
+	"की" post
+;	"का" gen f sg
+;	"का" gen f pl
+;	"कर" vblex tv perf f sg
+;	"कर" vblex tv perf f pl
+"<खोज की>"
+	"खोज कर" vblex tv perf f sg
+;	"खोज कर" vblex tv perf f pl
+"<,>"
+	"," cm
+"<परिमित>"
+	"परिमित" adj mfn sp
+;	"परिमित" adj m sg nom
+;	"परिमित" adj m sg obl
+;	"परिमित" adj m pl nom
+;	"परिमित" adj m pl obl
+;	"परिमित" adj f sg nom
+;	"परिमित" adj f sg obl
+;	"परिमित" adj f pl nom
+;	"परिमित" adj f pl obl
+"<अंतरों>"
+	"अंतर" n m pl obl
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<सिद्धांत>"
+	"सिद्धांत" n m sg nom
+;	"सिद्धांत" n m sg obl
+;	"सिद्धांत" n m pl nom
+"<में>"
+	"में" post
+"<महत्वपूर्ण>"
+	"महत्वपूर्ण" adj mfn sp
+;	"महत्वपूर्ण" adj m sg nom
+;	"महत्वपूर्ण" adj m sg obl
+;	"महत्वपूर्ण" adj m pl nom
+;	"महत्वपूर्ण" adj m pl obl
+;	"महत्वपूर्ण" adj f sg nom
+;	"महत्वपूर्ण" adj f sg obl
+;	"महत्वपूर्ण" adj f pl nom
+;	"महत्वपूर्ण" adj f pl obl
+"<योगदान दिया>"
+	"योगदान दे" vblex tv perf m sg
+"<,>"
+	"," cm
+"<वे>"
+;	"वे" n m sg nom
+;	"वे" n m sg obl
+;	"वे" n m pl nom
+;	"वे" n m pl obl
+	"यह" prn dem p3 mf pl dist nom
+"<पहले>"
+;	"पहले" adv
+	"पहला" num ord mf
+"<व्यक्ति>"
+	"व्यक्ति" n m sg nom
+;	"व्यक्ति" n m sg obl
+;	"व्यक्ति" n m pl nom
+"<थे>"
+	"हो" vbser impf p3 m pl
+"<जिन्होंने>"
+	"जो" prn rel pl erg
+"<भिन्नात्मक>"
+	"भिन्नात्मक" adj
+"<सूचकांक>"
+;	"सूचकांक" n m sg nom
+	"सूचकांक" n m sg obl
+;	"सूचकांक" n m pl nom
+;	"सूचकांक" n m pl obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<प्रयोग किया>"
+	"प्रयोग कर" vblex tv perf m sg
+"<और>"
+	"और" cnjcoo
+"<डायोफेनताइन>"
+	"डायोफेनताइन" np
+"<समीकरणों>"
+	"समीकरण" n m pl obl
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<हल>"
+	"हल" n m sg nom
+;	"हल" n m sg obl
+;	"हल" n m pl nom
+"<को>"
+	"को" post
+"<व्युत्पन्न करने>"
+	"व्युत्पन्न कर" vblex tv inf obl
+"<के लिए>"
+	"के लिए" post
+"<निर्देशांक>"
+;	"निर्देशांक" n m sg nom
+	"निर्देशांक" n m sg obl
+;	"निर्देशांक" n m pl nom
+"<ज्यामिति>"
+;	"ज्यामिति" n f sg nom
+	"ज्यामिति" n f sg obl
+;	"ज्यामिति" n f pl nom
+;	"ज्यामिति" n f pl obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<उपयोग किया>"
+	"उपयोग कर" vblex tv perf m sg
+"<।>"
+	"।" sent
+
+"<उन्होंने>"
+	"यह" prn dem p3 mf pl dist erg
+"<लघुगणक>"
+	"लघुगणक" n m sg nom
+;	"लघुगणक" n m sg obl
+;	"लघुगणक" n m pl nom
+;	"लघुगणक" n m pl obl
+"<के द्वारा>"
+	"के द्वारा" post
+"<हरात्मक>"
+	"हरात्मक" n sg
+"<श्रेढि>"
+	"श्रेढि" n sg
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<आंशिक>"
+	"आंशिक" adj mfn sp
+;	"आंशिक" adj m sg nom
+;	"आंशिक" adj m sg obl
+;	"आंशिक" adj m pl nom
+;	"आंशिक" adj m pl obl
+;	"आंशिक" adj f sg nom
+;	"आंशिक" adj f sg obl
+;	"आंशिक" adj f pl nom
+;	"आंशिक" adj f pl obl
+"<योग>"
+;	"योग" n m sg nom
+	"योग" n m sg obl
+;	"योग" n m pl nom
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<सन्निकटन>"
+	"सन्निकटन" n sg
+"<किया>"
+	"कर" vblex tv perf m sg
+"<,>"
+	"," cm
+"<(>"
+	"(" lpar
+"<यूलर>"
+	"यूलर" np cog sg
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<समेशन>"
+	"समेशन" n sg
+"<सूत्र>"
+	"सूत्र" n m sg nom
+;	"सूत्र" n m sg obl
+;	"सूत्र" n m pl nom
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<एक>"
+;	"एक" num
+	"एक" det indef obl mfn sg
+"<पूर्वगामी>"
+	"पूर्वगामी" adj
+"<)>"
+	")" rpar
+"<और>"
+	"और" cnjcoo
+"<वे>"
+;	"वे" n m sg nom
+;	"वे" n m sg obl
+;	"वे" n m pl nom
+;	"वे" n m pl obl
+	"यह" prn dem p3 mf pl dist nom
+"<पहले>"
+;	"पहले" adv
+	"पहला" num ord mf
+"<व्यक्ति>"
+	"व्यक्ति" n m sg nom
+;	"व्यक्ति" n m sg obl
+;	"व्यक्ति" n m pl nom
+"<थे>"
+	"हो" vbser impf p3 m pl
+"<जिन्होंने>"
+	"जो" prn rel pl erg
+"<आत्मविश्वास>"
+	"आत्मविश्वास" n m sg nom
+;	"आत्मविश्वास" n m sg obl
+;	"आत्मविश्वास" n m pl nom
+;	"आत्मविश्वास" n m pl obl
+"<के साथ>"
+	"के साथ" post
+"<घात>"
+	"घात" n f sg nom
+;	"घात" n f sg obl
+"<श्रृंखला>"
+	"श्रृंखला" n f sg nom
+;	"श्रृंखला" n f sg obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<प्रयोग किया>"
+	"प्रयोग कर" vblex tv perf m sg
+"<और>"
+	"और" cnjcoo
+"<घात>"
+	"घात" n f sg nom
+;	"घात" n f sg obl
+"<श्रृंखला>"
+	"श्रृंखला" n f sg nom
+;	"श्रृंखला" n f sg obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<विलोम>"
+	"विलोम" n m sg nom
+;	"विलोम" n m sg obl
+;	"विलोम" n m pl nom
+"<किया>"
+	"कर" vblex tv perf m sg
+"<।>"
+	"।" sent
+
+"<उन्हें>"
+	"यह" prn dem p3 mf pl dist dat
+"<1669>"
+	"1669" num
+"<में>"
+	"में" post
+"<गणित>"
+	"गणित" n f sg nom
+;	"गणित" n f sg obl
+;	"गणित" n f pl nom
+;	"गणित" n f pl obl
+"<का>"
+	"का" post
+;	"का" gen m sg
+"<ल्युकेसियन>"
+	"ल्युकेसियन" np
+"<प्रोफेसर>"
+	"प्रोफेसर" n m sg nom
+;	"प्रोफेसर" n m sg obl
+;	"प्रोफेसर" n m pl nom
+"<चुना>"
+	"चुन" vblex tv perf m sg
+"<गया>"
+	"जा" vblex iv perf m sg
+"<।>"
+	"।" sent
+"<उन>"
+	"यह" prn dem p3 mf pl dist obl
+"<दिनों>"
+	"दिन" n m pl obl
+"<,>"
+	"," cm
+"<कैंब्रिज>"
+	"कैंब्रिज" np
+"<या>"
+	"या" cnjcoo
+"<ऑक्सफ़ोर्ड>"
+	"ऑक्सफ़ोर्ड" np
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<किसी>"
+	"किसी" adj mfn sp
+;	"किसी" adj m sg nom
+;	"किसी" adj m sg obl
+;	"किसी" adj m pl nom
+;	"किसी" adj m pl obl
+;	"किसी" adj f sg nom
+;	"किसी" adj f sg obl
+;	"किसी" adj f pl nom
+;	"किसी" adj f pl obl
+"<भी>"
+	"भी" adv
+"<सदस्य>"
+;	"सदस्य" n m sg nom
+	"सदस्य" n m sg obl
+;	"सदस्य" n m pl nom
+"<को>"
+	"को" post
+"<एक>"
+;	"एक" num
+	"एक" det indef obl mfn sg
+"<निर्दिष्ट>"
+	"निर्दिष्ट" vblex pp
+"<अंग्रेजी>"
+;	"अंग्रेजी" n f sg nom
+	"अंग्रेजी" n f sg obl
+;	"अंग्रेजी" n f pl nom
+;	"अंग्रेजी" n f pl obl
+"<पुजारी>"
+;	"पुजारी" n m sg nom
+	"पुजारी" n m sg obl
+;	"पुजारी" n m pl nom
+"<होना>"
+;	"हो" vbser inf nom m
+	"होना" vblex iv inf nom m
+"<आवश्यक>"
+	"आवश्यक" adj mfn sp
+;	"आवश्यक" adj m sg nom
+;	"आवश्यक" adj m sg obl
+;	"आवश्यक" adj m pl nom
+;	"आवश्यक" adj m pl obl
+;	"आवश्यक" adj f sg nom
+;	"आवश्यक" adj f sg obl
+;	"आवश्यक" adj f pl nom
+;	"आवश्यक" adj f pl obl
+"<था>"
+	"हो" vbser impf p3 m sg
+"<।>"
+	"।" sent
+"<हालाँकि>"
+	"हालाँकि" adv
+"<,>"
+	"," cm
+"<ल्युकेसियन>"
+	"ल्युकेसियन" np
+"<प्रोफेसर>"
+;	"प्रोफेसर" n m sg nom
+	"प्रोफेसर" n m sg obl
+;	"प्रोफेसर" n m pl nom
+"<के लिए>"
+	"के लिए" post
+"<जरुरी>"
+	"जरुरी" vblex past
+"<था>"
+	"हो" vbser impf p3 m sg
+"<कि>"
+	"कि" cnjsub
+"<वह>"
+	"यह" prn dem p3 mf sg dist nom
+"<चर्च>"
+	"चर्च" n m sg nom
+;	"चर्च" n m sg obl
+;	"चर्च" n m pl nom
+"<में>"
+	"में" post
+"<सक्रिय>"
+	"सक्रिय" adj mfn sp
+;	"सक्रिय" adj m sg nom
+;	"सक्रिय" adj m sg obl
+;	"सक्रिय" adj m pl nom
+;	"सक्रिय" adj m pl obl
+;	"सक्रिय" adj f sg nom
+;	"सक्रिय" adj f sg obl
+;	"सक्रिय" adj f pl nom
+;	"सक्रिय" adj f pl obl
+"<न>"
+	"न" adv
+;	"न" adj mfn sp
+;	"न" n m sg nom
+;	"न" n m sg obl
+;	"न" n m pl nom
+;	"न" n m pl obl
+;	"न" adj m sg nom
+;	"न" adj m sg obl
+;	"न" adj m pl nom
+;	"न" adj m pl obl
+;	"न" adj f sg nom
+;	"न" adj f sg obl
+;	"न" adj f pl nom
+;	"न" adj f pl obl
+"<हो>"
+;	"हो" vbser imp p2 sg
+;	"हो" vbser imp p2 pl
+;	"हो" vbser pres p2 mf pl
+;	"होना" vblex iv prs p2 pl
+	"होना" vblex iv imp p2 sg
+;	"होना" vblex iv imp p2 pl
+"<।>"
+	"।" sent
+"<(>"
+	"(" lpar
+"<ताकि>"
+	"ताकि" cnjadv
+"<वह>"
+	"यह" prn dem p3 mf sg dist nom
+"<विज्ञान>"
+	"विज्ञान" n m sg nom
+;	"विज्ञान" n m sg obl
+;	"विज्ञान" n m pl nom
+;	"विज्ञान" n m pl obl
+"<के लिए>"
+	"के लिए" post
+"<और>"
+	"और" adv
+;	"और" cnjcoo
+"<अधिक>"
+	"अधिक" adj mfn sp
+;	"अधिक" adj m sg nom
+;	"अधिक" adj m sg obl
+;	"अधिक" adj m pl nom
+;	"अधिक" adj m pl obl
+;	"अधिक" adj f sg nom
+;	"अधिक" adj f sg obl
+;	"अधिक" adj f pl nom
+;	"अधिक" adj f pl obl
+"<समय दे>"
+	"समय दे" vblex tv prs p3 sg
+;	"समय दे" vblex tv imp p2 frm pl
+"<सके>"
+;	"सक" vaux prs p2 sg
+	"सक" vaux prs p3 sg
+;	"सक" vaux perf m pl
+"<)>"
+	")" rpar
+
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<ने>"
+	"ने" post
+"<तर्क>"
+	"तर्क" n m sg nom
+;	"तर्क" n m sg obl
+;	"तर्क" n m pl nom
+;	"तर्क" n m pl obl
+"<दिया>"
+	"दे" vblex tv perf m sg
+"<कि>"
+	"कि" cnjsub
+"<समन्वय की>"
+	"समन्वय कर" vblex tv perf f sg
+;	"समन्वय कर" vblex tv perf f pl
+"<आवश्यकता>"
+	"आवश्यकता" n f sg nom
+;	"आवश्यकता" n f sg obl
+"<से>"
+	"से" post
+;	"सा" adj m sg obl
+;	"सा" adj m pl nom
+;	"सा" adj m pl obl
+"<उन्हें>"
+	"यह" prn dem p3 mf pl dist dat
+"<मुक्त>"
+	"मुक्त" adj mfn sp
+;	"मुक्त" adj m sg nom
+;	"मुक्त" adj m sg obl
+;	"मुक्त" adj m pl nom
+;	"मुक्त" adj m pl obl
+;	"मुक्त" adj f sg nom
+;	"मुक्त" adj f sg obl
+;	"मुक्त" adj f pl nom
+;	"मुक्त" adj f pl obl
+"<रखना>"
+	"रख" vblex tv inf nom
+;	"रख" vblex tv inf nom m
+"<चाहिए>"
+	"चाह" vblex tv imp p2 frm pl
+"<और>"
+	"और" cnjcoo
+"<चार्ल्स>"
+	"चार्ल्स" np ant m sg nom
+"<द्वितीय>"
+	"द्वितीय" num ord
+;	"द्वितीय" adj mfn sp
+;	"द्वितीय" adj m sg nom
+;	"द्वितीय" adj m sg obl
+;	"द्वितीय" adj m pl nom
+;	"द्वितीय" adj m pl obl
+;	"द्वितीय" adj f sg nom
+;	"द्वितीय" adj f sg obl
+;	"द्वितीय" adj f pl nom
+;	"द्वितीय" adj f pl obl
+"<,>"
+	"," cm
+"<जिसकी>"
+	"जो" prn rel f sg gen
+"<अनुमति>"
+	"अनुमति" n f sg nom
+;	"अनुमति" n f sg obl
+;	"अनुमति" n f pl nom
+;	"अनुमति" n f pl obl
+"<अनिवार्य>"
+	"अनिवार्य" adj mfn sp
+;	"अनिवार्य" adj m sg nom
+;	"अनिवार्य" adj m sg obl
+;	"अनिवार्य" adj m pl nom
+;	"अनिवार्य" adj m pl obl
+;	"अनिवार्य" adj f sg nom
+;	"अनिवार्य" adj f sg obl
+;	"अनिवार्य" adj f pl nom
+;	"अनिवार्य" adj f pl obl
+"<थी>"
+	"हो" vbser impf p3 f sg
+"<,>"
+	"," cm
+"<ने>"
+	"ने" post
+"<इस>"
+	"यह" prn dem p3 mf sg prox obl
+"<तर्क>"
+	"तर्क" n m sg nom
+;	"तर्क" n m sg obl
+;	"तर्क" n m pl nom
+;	"तर्क" n m pl obl
+"<को>"
+	"को" post
+"<स्वीकार किया>"
+	"स्वीकार कर" vblex tv perf m sg
+"<।>"
+	"।" sent
+"<इस>"
+	"यह" prn dem p3 mf sg prox obl
+"<प्रकार>"
+	"प्रकार" n m sg nom
+;	"प्रकार" n m sg obl
+;	"प्रकार" n m pl nom
+"<से>"
+	"से" post
+;	"सा" adj m sg obl
+;	"सा" adj m pl nom
+;	"सा" adj m pl obl
+"<न्यूटन>"
+	"न्यूटन" np ant m sg nom
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<धार्मिक>"
+	"धार्मिक" adj mfn sp
+;	"धार्मिक" adj m sg nom
+;	"धार्मिक" adj m sg obl
+;	"धार्मिक" adj m pl nom
+;	"धार्मिक" adj m pl obl
+;	"धार्मिक" adj f sg nom
+;	"धार्मिक" adj f sg obl
+;	"धार्मिक" adj f pl nom
+;	"धार्मिक" adj f pl obl
+"<विचारों>"
+	"विचार" n m pl obl
+"<और>"
+	"और" cnjcoo
+"<अंग्रेजी>"
+	"अंग्रेजी" n f sg nom
+;	"अंग्रेजी" n f sg obl
+;	"अंग्रेजी" n f pl nom
+;	"अंग्रेजी" n f pl obl
+"<रूढ़ीवादियों>"
+	"रूढ़ीवादियों" n pl
+"<के>"
+	"के" post
+;	"का" gen m pl
+"<बीच>"
+	"बीच" adv
+;	"बीच" n m sg nom
+;	"बीच" n m sg obl
+;	"बीच" n m pl nom
+;	"बीच" n m pl obl
+"<संघर्ष>"
+	"संघर्ष" n m sg nom
+;	"संघर्ष" n m sg obl
+;	"संघर्ष" n m pl nom
+;	"संघर्ष" n m pl obl
+"<टल>"
+	"टल" vblex
+"<गया>"
+	"जा" vblex iv perf m sg
+"<।>"
+	"।" sent
+"<.>"
+	"." sent
+
+
+
+
